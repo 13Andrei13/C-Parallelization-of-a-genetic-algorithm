@@ -1,1 +1,0 @@
-# C-Parallelization-of-a-genetic-algorithm
